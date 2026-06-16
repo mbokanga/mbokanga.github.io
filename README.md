@@ -1,0 +1,1 @@
+This is the professional website for Maurice Bokanga, Assistant Professor of Sociology at Stetson University. Maurice is a sociological social psychologist whose research focuses on the relational and economic basis of trust and cooperation. His research uses social network analysis, experiments, formal models, and computational methods. 
